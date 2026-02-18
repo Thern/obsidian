@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "99b6599e995a01a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f42bc0fd87fe3de4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48b319895ac709ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Weekly Notes/2026-W08.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-W08"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "097f898434b760e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b7e8cb97c3ed0d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f68207c258491692",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f7e725afb86589b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0d923204cbe8e498",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f662595a2d06d77e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5be54a5ce328895",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1a957109d33846e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Weekly Notes/2026-W08.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-W08"
+            }
+          },
+          {
+            "id": "956a09d68fd3793c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Weekly Notes/2026-W08.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-W08"
+            }
+          },
+          {
+            "id": "0d52382b34cf21c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "de8b85b47947df4c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d24162ff93e9f8d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Weekly Notes/2026-W08.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-W08"
+            }
+          },
+          {
+            "id": "15dbc14f8f0b08c0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open this week": false
+    }
+  },
+  "active": "48b319895ac709ea",
+  "lastOpenFiles": [
+    "10 - Projects/Work/2026-02 - tenant-management-jira.md",
+    "10 - Projects/Work/2026-02 - CDC neo4j TMS Integration.md",
+    "10 - Projects/Work/2026-02 - pali-ng Deathdate Flow.md",
+    "10 - Projects/Work/2026-02-18 - tenant-management-jira IAM Testing.md",
+    "10 - Projects/Work/2026-02-18 - CDC neo4j TMS Testing.md",
+    "10 - Projects/Work/2026-02-18 - pali-ng Terraform Plan Discussion.md",
+    "Weekly Notes/2026-W08.md"
+  ]
+}
